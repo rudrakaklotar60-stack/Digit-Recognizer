@@ -14,3 +14,5 @@ Second Version contains 26506 parameters, and was trained on same 40,000 images,
 This NN takes Image of size 28 * 28 pixel, and it has 2 hidden layer, each containing 32 neurons and 10 neurons in output layer.
 
 
+Here's link for downloading raw MNIST's data set, and it's flattered version (converted to '.pkl' for training)
+https://drive.google.com/drive/folders/12BL987nfT2NqTfn6H9toY632ZzThVgEg?usp=sharing
